@@ -29,7 +29,7 @@ export default function Banner() {
                 {/* Right Image */}
                 <div className="flex-1">
                     <Image
-                        src="https://i.ibb.co.com/DfHs11j8/alexas-fotos-online-shopping-1082728-1920.jpg"
+                        src="https://i.ibb.co.com/zhhtP23K/Screenshot-2026-05-11-222842.png"
                         alt="Shopping Banner"
                         width={1000}
                         height={600}
