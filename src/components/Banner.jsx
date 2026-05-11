@@ -15,15 +15,6 @@ export default function Banner() {
                         Discover the best products at unbeatable prices. Shop smart, shop fast, and enjoy quality delivery right to your door.
                     </p>
 
-                    <div className="mt-6 flex gap-3">
-                        <button className="px-5 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
-                            Shop Now
-                        </button>
-
-                        <button className="px-5 py-3 border border-gray-400 rounded-lg hover:bg-gray-200 transition">
-                            Learn More
-                        </button>
-                    </div>
                 </div>
 
                 {/* Right Image */}
